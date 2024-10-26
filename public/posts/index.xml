@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Dimitar Andreev</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Dimitar Andreev</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 13:22:03 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing an HTTP Router for AWS Lambda Functions From Scratch With Go</title>
+      <link>http://localhost:1313/posts/writing-an-http-router-for-aws-lambda-functions-from-scratch-with-go/</link>
+      <pubDate>Sat, 26 Oct 2024 13:22:03 +0300</pubDate>
+      <guid>http://localhost:1313/posts/writing-an-http-router-for-aws-lambda-functions-from-scratch-with-go/</guid>
+      <description>&lt;p&gt;Just give me the code! &lt;a href=&#34;https://github.com/D-Andreev/lambdamux&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The options for deploying your REST APIs are numerous these days, spanning a wide spectrum. On one end, you have the bare metal approach of using your own server where you have full control over the infrastructure but also have to manage much more, while on the other end, you can leverage platforms and services that abstract away much of the infrastructure management but also limit your control over the underlying technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
